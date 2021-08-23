@@ -10,6 +10,6 @@ Bikeshare
 This is a bikeshare system for 3 main cities in the United States
 
 ### Files used
-bikeshare.py and 3 Excel data files
+bikeshare.py and 3 Excel data files for Chicago, New York city and Washington
 
 
