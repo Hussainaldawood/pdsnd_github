@@ -16,5 +16,6 @@ In this project, you will use data provided by Motivate, a bike share system pro
 ### Files used
 bikeshare.py, washington.csv, new_york_city.csv, chicago.csv
 
-
+### special thanks
+special thanks to Udacity and Misk
 
